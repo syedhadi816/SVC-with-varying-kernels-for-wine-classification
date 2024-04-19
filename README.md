@@ -2,6 +2,7 @@
 
 
 ![wq](https://github.com/syedhadi816/SVC-with-varying-kernels-for-wine-classification/assets/53166976/93d99a4c-26a9-4c67-aa84-5482a5a12f23)
+> Image Src: M Yasser H
 
 The following models were implemented and compared:
 1. Multinomial Naive Bayes
